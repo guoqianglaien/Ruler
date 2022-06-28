@@ -1,0 +1,6 @@
+framework module OOGRuler {
+  umbrella header "OOGRuler-umbrella.h"
+
+  export *
+  module * { export * }
+}

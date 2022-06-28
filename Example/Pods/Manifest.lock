@@ -1,0 +1,23 @@
+PODS:
+  - OOGRuler (0.1.0):
+    - SnapKit (= 5.0.0)
+  - SnapKit (5.0.0)
+
+DEPENDENCIES:
+  - OOGRuler (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  OOGRuler:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OOGRuler: 963b5bec83946d917484d0ff62e90eeed9d4a60e
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+
+PODFILE CHECKSUM: 49ec5d3511558e956832e72a9ab695df77102878
+
+COCOAPODS: 1.11.3
