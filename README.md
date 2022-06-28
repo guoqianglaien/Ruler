@@ -8,5 +8,5 @@ Ruler 满足用户对 身高cm inch 和 体重 kg lb 通过支持选择<br>
 6.支持点击跳转.<br>
 7.支持各种骚操作自定义.<br>
 
-
+https://github.com/guoqianglaien/Ruler/blob/main/projectDemo.MP4
 
